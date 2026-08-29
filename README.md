@@ -1,2 +1,4 @@
-# hello-world.c
-My first C program for engineering portfolio Visibility: ✅ Public
+# Hello World C
+
+My first C program created as part of my engineering portfolio.
+
