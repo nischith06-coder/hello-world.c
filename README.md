@@ -14,14 +14,12 @@ Then run:
 
 ```bash
 git add README.md
-
 ## Collaboration Log
 
-- **Pairing Partner:** Manoj Shetty
-- **GitHub Username:** manojshetty_7
-- **What we built:** We collaboratively added a `greet()` function to `hello.c` that greets a person by name and welcomes them to the GitHub portfolio.
-- **What I learned:** I learned how to use GitLens to inspect commit history and line-by-line authorship, and how Live Share allows developers to collaborate in real time.
-
+- **Pairing Partner:** Pranav Arun 
+- **GitHub Username:** Pranav-Arun18
+- **What we built:** We collaboratively added and tested the `greet()` function in the C program using VS Code Live Share.
+- **What I learned:** I learned how to use Live Share to edit and test code collaboratively in real time, and GitLens to inspect commit history and line-by-line authorship.
 Student Name
 
 NISCHITH R PRAKASH
